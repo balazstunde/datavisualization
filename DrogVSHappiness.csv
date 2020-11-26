@@ -1,195 +1,136 @@
-COUNTRY (lowest estimate or overall estimate used),"Cocaine, % of pop adults","Cannabis, % of pop, adults ","Amphetamines, % of pop, adults ","Opiates, % of pop, adults ",happiness rating (2006),total drug use,alcohol use per capita,"sources: guardian.co.uk, World Database of Happiness","http://www.guardian.co.uk/news/datablog/2009/jun/24/drugs-trade-drugs, http://worlddatabaseofhappiness.eur.nl/"
-Afghanistan,,3.6,,,4.7,3.6,,,
-Albania,0.1,1.8,0.1,0.45,4.6,2.45,2.51,,
-Algeria,,5.2,,0.12,5.2,5.32,0.03,,
-Angola,0.1,2.1, ,0.25,4,2.45,2.91,,
-Antigua & Barbuda,0.1,,,0.05,,0.15,4.24,,
-Argentina,2.6,7.2,0.6,0.16,7.5,10.56,8.55,       ,
-Armenia,0.1,3.5,0.1,0.3,4.9,4,1.23,,
-Australia,1.9,10.6,2.7,0.4,7.7,15.6,9.19,,
-Austria,0.9,3.5,0.5,0.43,7.9,5.33,12.58,,
-Azerbaijan,,3.5,,0.27,5.4,3.77,6.94,,
-Bahamas,,4.7,0.3,0.22,,5.22,9.21,,
-Bahrain,,,,1.4,,1.4,2.63,,
-Bangladesh,,3.3,,0.4,5.3,3.7,0,,
-Belarus,0.1,0.9,0.4,0.08,4.2,1.48,8.12,,
-Belgium,1.2,5,0.6,,7.3,6.8,10.06,,
-Belize,0.9,8.5,1.4,,6.9,10.8,4.5,,
-Benin,,,,,,0,1.22,,
-Bermuda,,,,,4.3,0,12.92,,
-Bhutan,,,,,,0,0.57,,
-Bolivia,0.8,4.3,0.5,0.3,5.9,5.9,3.43,,
-Bosnia,,3,,0.3,5.3,3.3,8.62,,
-Botswana,,,,,5.3,0,5.38,,
-Brazil,0.7,2.6,0.7,0.5,7.4,4.5,5.32,,
-Brunei,,,0.3,0.01,,0.31,0.49,,
-Bulgaria,0.6,2.2,0.5,0.38,4.4,3.68,7.13,,
-Burkina Faso,,2.9,,,5.1,2.9,4.38,,
-Burundi,,,,,5,0,9.33,,
-Cambodia,,3.5,0.6,0.01,4.4,4.11,0.36,,
-Cameroon,,,,,4.6,0,3.66,,
-Canada,2.3,17,1,0.21,7.6,20.51,8.26,,
-Central African Rep,,,,0.05,5.1,0.05,1.66,,
-Chad,,,,0.22,4.2,0.22,0.23,,
-Chile,1.7,7.5,0.4,0.2,6.8,9.8,6.02,,
-China,,,,0.19,6.3,0.19,4.45,,
-Colombia,0.8,1.9,0.5,0.1,8.1,3.3,5.92,,
-Comoros,,2.9,,,,2.9,0.08,,
-"Congo, DRC",,,,0.17,4.9,0.17,,,
-"Congo, Rep",,,,0.13,4.9,0.13,,,
-Cook Isl.,,,,,,0,,,
-Costa Rica,0.4,1,1.3,,7.3,2.7,5.45,,
-Côte d'Ivoire,,,,,,0,1.71,,
-Croatia,0.9,5.1,0.6,0.36,6.1,6.96,12.66,,
-Cuba,,,,,,0,3.65,,
-Cyprus,0.6,2.1,0.4,0.09,7.3,3.19,6.67,,
-Czech Rep.,0.2,9.3,0.7,0.13,6.4,10.33,16.21,,
-Denmark,1,5.2,0.7,0.6,8.4,7.5,11.93,,
-Djibouti,,,,,5.6,0,1.08,,
-Dominica,0.9,,,,,0.9,9.19,,
-Dominican Rep,0.9,1.9,1.1,0.14,5.7,4.04,6.11,,
-Ecuador,0.3,0.7,0.2,0.12,,1.32,1.99,,
-Egypt,0.1,2.9,0.4,0.14,,3.54,0.1,,
-El Salvador,0.2,0.4,3.3,0.14,7.2,4.04,3.45,,
-England & Wales,2.3,7.4,,0.93,7.1,10.63,10.39,,
-Equatorial Guinea,,,,,,0,0.9,,
-Eritrea,,,,,,0,1.54,,
-Estonia,0.6,4.6,1.3,0.89,5.9,7.39,9.85,,
-Ethiopia,,2.6,,,4.3,2.6,0.91,,
-Falkland Islands,,,,,,0,,,
-Fiji,,,,,,0,1.69,,
-Finland,0.5,3.6,0.6,0.23,7.8,4.93,10.43,,
-France,0.6,8.6,0.2,0.42,6.5,9.82,13.54,,
-French Polynesia,,,,,,0,7.68,,
-Gabon,,,,,,0,7.97,,
-Gambia,,,,,,0,2.27,,
-Georgia,,0.5,,0.58,,1.08,2.41,,
-Germany,0.7,4.7,0.5,0.14,,6.04,12.89,,
-Ghana,1.1,21.5,,0.14,5.7,22.74,1.54,,
-Greece,0.1,1.7,0.2,0.28,6.4,2.28,9.3,,
-Guatemala,0.2,4.8,0.9,0.04,7,5.94,1.64,,
-Guinea,,,,,5,0,0.14,,
-Guinea-Bissau,,,,,,0,2.76,,
-Guyana,,2.6,,0.25,6.4,2.85,5.84,,
-Haiti,,6.2,,0.19,4.5,6.39,6.51,,
-Honduras,0.9,1.5,0.8,0.15,6.5,3.35,2.28,,
-Hong Kong,0.1,,,0.2,6,0.3,,,
-Hungary,0.2,2.3,0.6,0.28,5.5,3.38,11.92,,
-Iceland,0.9,3.2,0.6,0.4,8.5,5.1,5.74,,
-India,,3.2,,0.43,5.9,3.63,0.82,,
-Indonesia,0.1,0.7,0.3,0.16,6.6,1.26,0.1,,
-Iran,,4.2,,0.31,6,4.51,0,,
-Iraq,,,,1.5,4.3,1.5,0.2,,
-Ireland,1.7,6.3,0.4,0.5,7.5,8.9,14.45,,
-Israel,0.6,8.5,0.4,,6.7,9.5,1.99,,
-Italy,2.2,14.6,0.6,0.79,6.8,18.19,9.14,,
-Jamaica,1.1,10.7,,0.1,6.6,11.9,3.37,,
-Japan,,,,,6.4,0,7.38,,
-Jordan,0.1,2.1,0.4,0.5,6,3.1,0.11,,
-Kazakhstan,,4.2,,1,6,5.2,2.89,,
-Kenya,,4.7,,0.16,5.2,4.86,1.74,,
-Kiribati,,,,,,0,1.66,,
-"Korea, North",,,,,,0,5.68,,
-"Korea, South",0.1,0.1,0.1,0.06,,0.36,7.71,,
-Kuwait,0.1,3.1,0.3,0.17,6.7,3.67,0,,
-Kyrgyzstan,,6.4,,0.8,6.1,7.2,5.5,,
-Lao,,0.7,1.1,0.37,5.7,2.17,6.72,,
-Latvia,0.5,4.9,0.9,0.8,5.1,7.1,9.31,,
-Lebanon,0.1,6.4,0.4,0.17,5.6,7.07,4.13,,
-Lesotho,,,,,,0,1.83,,
-Liberia,,,,0.17,4.8,0.17,3.12,,
-Libya,,0.1,,0.14,,0.24,0,,
-Lithuania,0.3,2.2,0.3,0.1,4.9,2.9,12.32,,
-Luxembourg,0.9,7.6,0.4,0.93,7.7,9.83,17.54,,
-Macau,,0.7,,1.12,,1.82,,,
-"Macedonia, FYR",0.1,,,0.5,4.6,0.6,4.12,,
-Madagascar,,9.1,,,4.7,9.1,1.38,,
-Malawi,,,,,4.8,0,1.44,,
-Malaysia,,1.6,0.6,1.11,6.5,3.31,1.06,,
-Maldives,,,,,,0,1.72,,
-Mali,,,,,5.7,0,0.49,,
-Malta,1.1,4.4,0.6,0.54,7,6.64,6.74,,
-Mauritania,,,,,5.7,0,0.01,,
-Mauritius,,3.9,,1.95,,5.85,3.16,,
-Mexico,0.8,3.1,0.4,0.1,8,4.4,4.62,,
-Micronesia,,,,,,0,,,
-Moldova,,,0.2,0.1,4.9,0.3,13.88,,
-Mongolia,,,,,5.2,0,1.96,,
-Montenegro,,,,,5.2,0,,,
-Montserrat,,,,,,0,,,
-Morocco,0.1,4.2,0.1,0.02,5.2,4.42,0.41,,
-Mozambique,,,,,5.2,0,1.67,,
-Myanmar,,0.9,0.2,0.6,,1.7,0.36,,
-Namibia,0.2,3.9,0.1,,5.5,4.2,2.39,,
-Nauru,,,,,,0,,,
-Nepal,,3.2,,0.33,5.2,3.53,0.08,,
-Netherlands,0.6,5.4,0.3,0.31,7.5,6.61,9.74,,
-Netherlands Antilles,,,,,,0,9.94,,
-New Caledonia,,,,,,0,7.83,,
-New Zealand,0.8,13.3,2.3,0.42,7.3,16.82,9.79,,
-Nicaragua,0.5,1.1,0.8,,5.4,2.4,2.53,,
-Niger,,,,0.2,4.5,0.2,0.11,,
-Nigeria,0.5,13.8,1.1,0.57,6.5,15.97,10.04,,
-Norfolk Isl.,,,,,,0,,,
-Norway,0.8,4.6,1.1,0.33,7.7,6.83,5.81,,
-Oman,,0.1,0.1,0.2,,0.4,1.32,,
-Pakistan,,3.9,,0.09,4.3,3.99,0.02,,
-Palestinian,,,,0.7,5.4,0.7,,,
-Panama,1.2,4,0.6,,6.6,5.8,6.04,,
-Papua New Guinea,,,,,,0,1.01,,
-Paraguay,0.3,1.6,0.5,0.03,5.5,2.43,6.66,,
-Peru,0.3,0.7,0.2,0.18,6.4,1.38,4.68,,
-Philippines,0.1,0.7,1.9,0.05,6.3,2.75,3.75,,
-Poland,0.2,2.7,0.7,0.09,6.4,3.69,8.68,,
-Portugal,0.6,3.6,0.2,0.43,5.7,4.83,12.49,,
-Puerto Rico,,,,1.15,,1.15,,,
-Qatar,,,,,,0,0.44,,
-Romania,0.1,0.9,0.1,0.11,5.5,1.21,7.63,,
-Russian Fed,0.2,3.5,0.2,1.64,5.4,5.54,10.58,,
-Rwanda,,,,0.14,4.4,0.14,6.8,,
-Samoa,,,,,,0,1.42,,
-San Marino,,,,,,0,,,
-Sao Tome & Principe,,,,,,0,6.07,,
-Saudi Arabia,,0.3,0.4,,7,0.7,0,,
-Senegal,,,,0.08,5.5,0.08,0.48,,
-Serbia,,,,,5.6,0,,,
-Seychelles,,,,,,0,3.61,,
-Sierra Leone,,,,0.17,4.6,0.17,6.64,,
-Singapore,,,,0.01,6.8,0.01,2.73,,
-Slovenia,0.9,4.1,0.4,0.53,,5.93,6.55,,
-Solomon Isl.,,,,,,0,0.86,,
-Somalia,,2.5,,0.16,,2.66,0,,
-South Africa,0.7,4,0.5,0.35,6,5.55,7.81,,
-Southeast Europe,,,,,,0,,,
-Spain,3,10.1,0.9,0.2,7.2,14.2,12.25,,
-Sri Lanka,,,,0.11,5,0.11,0.18,,
-Sudan,,,,,5.3,0,0.27,,
-Suriname,0.5,2,0.6,0.08,,3.18,5.82,,
-Swaziland,,,,0.17,,0.17,9.51,,
-Sweden,0.5,2.1,0.2,0.17,7.7,2.97,6.86,,
-Switzerland,0.8,8.5,0.6,0.51,8.1,10.41,11.53,,
-Syria,0.1,,,0.06,,0.16,0.62,,
-Taiwan,0.1,,,0.2,6.2,0.3,,,
-Tajikistan,,3.4,,0.54,5.4,3.94,0.41,,
-"Tanzania,",,,,0.02,3.2,0.02,5.29,,
-Thailand,0.1,1.2,1.4,0.2,6.9,2.9,8.47,,
-Togo,,2.7,,,4.1,2.7,0.95,,
-Tonga,,,,,,0,,,
-Trinidad & Tobago,,3.7,0.8,0.09,7,4.59,3.22,,
-Tunisia,,,,0.09,5.9,0.09,0.65,,
-Turkey,0.1,1.9,0.2,0.05,5.5,2.25,1.48,,
-Turkmenistan,,,,0.32,,0.32,0.77,,
-Tuvalu,,,,,,0,,,
-UAE,,,,0.02,7.1,0.02,2.75,,
-Uganda,,,,0.06,5.1,0.06,19.47,,
-Ukraine,0.2,2.4,0.2,1,4.8,3.8,4.04,,
-Uruguay,1.4,6,0.3,0.08,6.1,7.78,6.96,,
-USA,2.8,12.3,1.6,0.58,7,17.28,8.51,,
-Uzbekistan,,4.2,,0.8,6.1,5,1.52,,
-Vanuatu,,,,,,0,1.11,,
-Venezuela,0.6,7.5,0.6,0.03,7.2,8.73,8.78,,
-Vietnam,,0.3,0.2,0.25,6.5,0.75,1.35,,
-Yemen,,,,,5.2,0,0.08,,
-Zambia,0.2,17.7,0.1,0.37,5.6,18.37,3.02,,
-Zimbabwe,0.1,6.9,0.1,0.04,3.3,7.14,5.08,,
-,,,,,,,xx,,
+COUNTRY,happiness,drug
+Afghanistan,4.7,3.6
+Albania,4.6,2.45
+Algeria,5.2,5.32
+Angola,4,2.45
+Argentina,7.5,10.56
+Armenia,4.9,4
+Australia,7.7,15.6
+Austria,7.9,5.33
+Azerbaijan,5.4,3.77
+Belarus,4.2,1.48
+Belgium,7.3,6.8
+Belize,6.9,10.8
+Bermuda,4.3,0
+Bolivia,5.9,5.9
+Bosnia,5.3,3.3
+Botswana,5.3,0
+Brazil,7.4,4.5
+Bulgaria,4.4,3.68
+Burkina Faso,5.1,2.9
+Burundi,5,0
+Cambodia,4.4,4.11
+Cameroon,4.6,0
+Canada,7.6,20.51
+Central African Rep,5.1,0.05
+Chad,4.2,0.22
+Chile,6.8,9.8
+China,6.3,0.19
+Colombia,8.1,3.3
+"Congo, DRC",4.9,0.17
+"Congo, Rep",4.9,0.13
+Costa Rica,7.3,2.7
+Croatia,6.1,6.96
+Cyprus,7.3,3.19
+Czech Rep.,6.4,10.33
+Denmark,8.4,7.5
+Djibouti,5.6,0
+Dominican Rep,5.7,4.04
+El Salvador,7.2,4.04
+England & Wales,7.1,10.63
+Estonia,5.9,7.39
+Ethiopia,4.3,2.6
+Finland,7.8,4.93
+France,6.5,9.82
+Ghana,5.7,22.74
+Greece,6.4,2.28
+Guatemala,7,5.94
+Guinea,5,0
+Guyana,6.4,2.85
+Haiti,4.5,6.39
+Honduras,6.5,3.35
+Hong Kong,6,0.3
+Hungary,5.5,3.38
+Iceland,8.5,5.1
+India,5.9,3.63
+Indonesia,6.6,1.26
+Iran,6,4.51
+Iraq,4.3,1.5
+Ireland,7.5,8.9
+Israel,6.7,9.5
+Italy,6.8,18.19
+Jamaica,6.6,11.9
+Japan,6.4,0
+Jordan,6,3.1
+Kazakhstan,6,5.2
+Kenya,5.2,4.86
+Kuwait,6.7,3.67
+Kyrgyzstan,6.1,7.2
+Lao,5.7,2.17
+Latvia,5.1,7.1
+Lebanon,5.6,7.07
+Liberia,4.8,0.17
+Lithuania,4.9,2.9
+Luxembourg,7.7,9.83
+"Macedonia, FYR",4.6,0.6
+Madagascar,4.7,9.1
+Malawi,4.8,0
+Malaysia,6.5,3.31
+Mali,5.7,0
+Malta,7,6.64
+Mauritania,5.7,0
+Mexico,8,4.4
+Moldova,4.9,0.3
+Mongolia,5.2,0
+Montenegro,5.2,0
+Morocco,5.2,4.42
+Mozambique,5.2,0
+Namibia,5.5,4.2
+Nepal,5.2,3.53
+Netherlands,7.5,6.61
+New Zealand,7.3,16.82
+Nicaragua,5.4,2.4
+Niger,4.5,0.2
+Nigeria,6.5,15.97
+Norway,7.7,6.83
+Pakistan,4.3,3.99
+Palestinian,5.4,0.7
+Panama,6.6,5.8
+Paraguay,5.5,2.43
+Peru,6.4,1.38
+Philippines,6.3,2.75
+Poland,6.4,3.69
+Portugal,5.7,4.83
+Romania,5.5,1.21
+Russian Fed,5.4,5.54
+Rwanda,4.4,0.14
+Saudi Arabia,7,0.7
+Senegal,5.5,0.08
+Serbia,5.6,0
+Sierra Leone,4.6,0.17
+Singapore,6.8,0.01
+South Africa,6,5.55
+Spain,7.2,14.2
+Sri Lanka,5,0.11
+Sudan,5.3,0
+Sweden,7.7,2.97
+Switzerland,8.1,10.41
+Taiwan,6.2,0.3
+Tajikistan,5.4,3.94
+"Tanzania,",3.2,0.02
+Thailand,6.9,2.9
+Togo,4.1,2.7
+Trinidad & Tobago,7,4.59
+Tunisia,5.9,0.09
+Turkey,5.5,2.25
+UAE,7.1,0.02
+Uganda,5.1,0.06
+Ukraine,4.8,3.8
+Uruguay,6.1,7.78
+USA,7,17.28
+Uzbekistan,6.1,5
+Venezuela,7.2,8.73
+Vietnam,6.5,0.75
+Yemen,5.2,0
+Zambia,5.6,18.37
+Zimbabwe,3.3,7.14
